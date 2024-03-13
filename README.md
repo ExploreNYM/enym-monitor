@@ -7,16 +7,16 @@ apt install git
 ```
 #### clone the repo
 ```sh
-git clone https://github.com/ExploreNYM/vps-monitor ~/vps-monitor
+git clone https://github.com/ExploreNYM/enym-monitor ~/enym-monitor
 ```
 
 #### SETUP NODE-EXPORTER
 
 ```sh
-chmod +x ~/vps-monitor/node-exporter.sh && ~/vps-monitor/node-exporter.sh
+chmod +x ~/enym-monitor/node-exporter.sh && ~/enym-monitor/node-exporter.sh
 ```
 #### REGISTER GRAFANA DASHBOARD
 
 ```sh
-chmod +x ~/vps-monitor/enym-monitor.sh && ~/vps-monitor/enym-monitor.sh
+chmod +x ~/enym-monitor/enym-monitor.sh && ~/enym-monitor/enym-monitor.sh
 ```
