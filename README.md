@@ -2,6 +2,8 @@
 
 This repository contains scripts to help you sign up and set up the ExploreNYM monitoring service for your system. By following these instructions, you will install Node Exporter on your system to collect system metrics, and you'll register to view these metrics through a Grafana dashboard hosted at https://monitor.explorenym.net.
 
+<img width="1714" alt="Screenshot 2024-03-16 at 00 23 37" src="https://github.com/ExploreNYM/self-hosted-monitor/assets/60665157/79a0f735-f3ce-4e52-b25c-9c0b7867ba7b">
+
 ## Prerequisites
 
 Before starting, ensure you have:
