@@ -1,4 +1,3 @@
-```markdown
 # ExploreNYM Monitoring Service
 
 This repository contains scripts to help you sign up and set up the ExploreNYM monitoring service for your system. This service allows you to monitor your system's metrics using Prometheus and visualize them through a Grafana dashboard hosted at https://monitor.explorenym.net.
