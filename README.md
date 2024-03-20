@@ -73,6 +73,14 @@ If Node Exporter is active and running, the installation process was successful.
 
 If you encounter any issues during the setup process, ensure you have internet connectivity and the necessary permissions to execute the scripts. Check the script logs for specific error messages, and verify that all dependencies were installed successfully.
 
+## Uninstall
+This script will revert back uninstalling node-exporter + user + service file and lock port.
+
+```sh
+chmod +x ~/enym-monitor/uninstall-node-exporter.sh && ~/enym-monitor/unistall-node-exporter.sh
+```
+
+
 ## Need Help?
 
 For additional support or if you have any questions, please contact @pawnflake:matrix.org or open an issue in this repository.
