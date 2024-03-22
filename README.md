@@ -77,7 +77,7 @@ If you encounter any issues during the setup process, ensure you have internet c
 This script will revert back uninstalling node-exporter + user + service file and lock port.
 
 ```sh
-chmod +x ~/enym-monitor/uninstall-node-exporter.sh && ~/enym-monitor/unistall-node-exporter.sh
+chmod +x ~/enym-monitor/uninstall-node-exporter.sh && ~/enym-monitor/uninstall-node-exporter.sh
 ```
 
 
